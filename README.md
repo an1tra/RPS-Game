@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://user-images.githubusercontent.com/25800122/70292585-99c72380-17ac-11ea-8208-e949c921a933.png)
+![image](https://user-images.githubusercontent.com/25800122/70385216-5ad6d080-195a-11ea-9bb8-6f1b025ce733.png)
 
 A simple rock, paper, scissor game that compares and displays user guesses against a randomly generated computer guess while tracking wins, losses, and ties.
 
@@ -41,7 +41,7 @@ git clone https://github.com/an1tra/RPS-Game.git
 ```
 7. Press Enter. Your local clone will be created.
 
-To view this application you will need to navigate into the index.html file and left-click to "View in Default Browser". Then, open the console to view the JavaScript in action. 
+To view this application you will need to navigate into the index.html file and left-click to "View in Default Browser". Or, click the project link listed below.
 
 
 <!-- USAGE EXAMPLES -->
